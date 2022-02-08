@@ -1,0 +1,28 @@
+body{
+    background: rgb(72, 61, 141);
+}
+
+.imgBox{
+    background-image: url('logo2.jpg');
+    position: relative;
+    height: 145px;
+    width: 145px;
+    top: 7px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.whiteBox{
+    height: 155px;
+    width: 155px;
+    background-color: white;
+    display: inline-block;
+    margin: 10px;
+    border: 3px solid black;
+}
+.holdd{
+    border: solid 4px red;
+}
+.hide{
+    display: none;
+}
